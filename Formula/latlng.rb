@@ -1,9 +1,9 @@
 class Latlng < Formula
   desc "Geospatial object server and command-line tools"
   homepage "https://github.com/tobilg/latlng"
-  url "https://github.com/tobilg/latlng/releases/download/v0.1.2/latlng-macos-arm64.tar.gz"
-  sha256 "a8966843a800283f4d5a693d3030c43b113c1d1737909d178ca8750ee17afa76"
-  version "0.1.2"
+  url "https://github.com/tobilg/latlng/releases/download/v0.1.3/latlng-macos-arm64.tar.gz"
+  sha256 "7a1ef9f79ab62096d0bb43ebbf0da6adb8d6b0c113fdb7f903a8efb7ac6fd1f8"
+  version "0.1.3"
   license "MIT"
 
   depends_on :macos
